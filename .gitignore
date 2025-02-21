@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Configuración del entorno
+.env
+
+# Archivos de logs y errores
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# Caché de dependencias y compilación
+dist/
+build/
+.cache/
+
+# Configuración del editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Git y despliegue
+.git/
